@@ -4,8 +4,8 @@ Read / Convert / Analyse OSM Data
 Die Software OSMConverter entstand im Zuge der Bachelorarbeit von Tom Müller mit dem Titel
 **Evaluierung der Nutzbarkeit von OpenStreetMap Daten für Intelligent Transport Systems (ITS)**
 
-Die Arbeit kann hier heruntergeladen werden: http://newnoise.peacock.uberspace.de/bachelor/Bachelorarbeit_Tom_M%C3%BCller_Evaluierung_von_OSM_Daten.pdf
-
+[Die Arbeit kann hier heruntergeladen werden](http://newnoise.peacock.uberspace.de/bachelor/Bachelorarbeit_Tom_M%C3%BCller_Evaluierung_von_OSM_Daten.pdf
+)
 ###Bedienung:
 
 Die OSMConverter.jar _muss_ sich mit der zu konvertierenden name.osm-Datei in einem Verzeichnis befinden!
