@@ -31,9 +31,9 @@ Optional können noch folgende Parameter verwand werden:
 
 ###Verwendung des Quellcodes
 Um aus den Quelldateien ein lauffähiges Projekt zu erstellen, werden folgende Abhängigkeiten benötigt:
-+[gnujaxp.jar](https://www.gnu.org/software/classpathx/jaxp/)
-+[iText v2.1.5](https://github.com/itext/itextpdf)
-+[jFreeChart](http://www.jfree.org/jfreechart/) - jcommon.jar, jfreechart.jar, jfreechart-experimental.jar, jfreechart-swt.jar
-+[JTS v1.7.1](http://www.vividsolutions.com/jts/JTSHome.htm)
-+[jUnit](http://junit.org/junit4/)
-+[geotools](http://www.geotools.org/)
++ [gnujaxp.jar](https://www.gnu.org/software/classpathx/jaxp/)
++ [iText v2.1.5](https://github.com/itext/itextpdf)
++ [jFreeChart](http://www.jfree.org/jfreechart/) - jcommon.jar, jfreechart.jar, jfreechart-experimental.jar, jfreechart-swt.jar
++ [JTS v1.7.1](http://www.vividsolutions.com/jts/JTSHome.htm)
++ [jUnit](http://junit.org/junit4/)
++ [geotools](http://www.geotools.org/)
