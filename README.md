@@ -6,7 +6,7 @@ Die Software OSMConverter entstand im Zuge der Bachelorarbeit von Tom Müller mi
 
 [Die Arbeit kann hier heruntergeladen werden](http://newnoise.peacock.uberspace.de/bachelor/Bachelorarbeit_Tom_M%C3%BCller_Evaluierung_von_OSM_Daten.pdf
 )
-###Bedienung:
+### Bedienung:
 
 Die OSMConverter.jar _muss_ sich mit der zu konvertierenden name.osm-Datei in einem Verzeichnis befinden!
 
@@ -29,7 +29,7 @@ Optional können noch folgende Parameter verwand werden:
 -writeTomFiles 	(erzeugt die TOM-File-Dateien mit allen gesetzten Attributen)
 ```
 
-###Verwendung des Quellcodes
+### Verwendung des Quellcodes
 Um aus den Quelldateien ein lauffähiges Projekt zu erstellen, werden folgende Abhängigkeiten benötigt:
 + [gnujaxp.jar](https://www.gnu.org/software/classpathx/jaxp/)
 + [iText v2.1.5](https://github.com/itext/itextpdf)
